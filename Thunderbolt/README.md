@@ -1,6 +1,6 @@
 ## Thunderbolt theme description
 
-This theme is based mainly on the artwork of the Atolm Gnome Sehell theme and my previous Tomcat theme.
+This theme is based mainly on the artwork and colors of the Atolm Gnome Sehell theme and my previous Tomcat theme.
 
 ## Compatibility
 
