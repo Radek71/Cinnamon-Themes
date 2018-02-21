@@ -1896,7 +1896,14 @@ StScrollBar StButton#vhandle:hover
     background-gradient-start: rgba(255, 52, 52, 0);
     background-gradient-end: rgba(255, 144, 144, 0);
 }
-
+.window-list-item-box .progress {
+    background-gradient-direction: vertical;
+    background-gradient-start: rgba(255,255,255,0.6);
+    background-gradient-end: rgba(255,255,255,0.3);
+    border-radius: 3px;
+	box-shadow: inset 0px 1px 1px rgba(255,255,255,0.1);
+    border: 1px solid #222;
+}
 
 /* ===================================================================
  * Sound Applet (sound@cinnamon.org)
